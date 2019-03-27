@@ -9,7 +9,7 @@ name: Manoj Kumar
 description: Machine Learning Enthusiast
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-#avatar: 
+avatar: 
 #https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
 
 #
@@ -24,7 +24,7 @@ footer-links:
   flickr:
   github: manojk16/jekyll-now
   instagram:
-  linkedin: manojk16/
+  linkedin: manojk16
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: manojk16
@@ -86,4 +86,4 @@ exclude:
   - README.md
   - CNAME
 
-theme: jekyll-theme-slate
+theme: 
