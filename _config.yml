@@ -12,7 +12,7 @@ locale                   : "en"
 title                    : "home"
 title_separator          : "-"
 name                     : "Manoj Kumar"
-description              : "Data Science & Machine learning"
+description              : "Data Science / Machine learning Enthusiast"
 url                      : https://Manojk16.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  :  # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -85,7 +85,7 @@ analytics:
 author:
   name             : "Manoj Kumar"
   avatar           :  # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Data Scientist / Machine Learning"
+  bio              : "Data Science / Machine Learning Enthusiast"
   location         : "Bangaluru"
   email            : mkumar9824@gmail.com
   uri              :
