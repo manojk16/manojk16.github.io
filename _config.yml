@@ -1,12 +1,31 @@
 #
+
+locale                   : "en"
+title                    : "home"
+title_separator          : "-"
+name                     : "Manoj Kumar"
+description              : "Data Science & Machine Learning "
+url                      : https://manojk16.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  :  # the subpath of your site, e.g. "/blog"
+repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+# breadcrumbs            : false # true, false (default)
+words_per_minute         : 200
+comments:
+  provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2" "custom"
+  disqus:
+    shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+  discourse:
+    server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
+ 
 # This file contains configuration flags to customize your site
 #
 
 # Name of your site (displayed in the header)
-name: Manoj Kumar
+
 
 # Short bio or description (displayed in the header)
-description: Machine Learning Enthusiast
+
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: 
