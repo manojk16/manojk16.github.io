@@ -84,7 +84,7 @@ analytics:
 # Site Author
 author:
   name             : "Manoj Kumar"
-  avatar           : "/assets/images/reshama_photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           :  # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Scientist / Machine Learning"
   location         : "Bangaluru"
   email            : mkumar9824@gmail.com
