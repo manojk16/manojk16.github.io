@@ -9,25 +9,3 @@ main:
     url: /portfolio/
   - title: More
     url: /more/   
-#  - title: Interviews
-#    url: /interviews/
-#  - title: Resources
-#    url: /resources/
-#  - title: Melange
-#    url: /melange/
-  #- title: "Quick-Start Guide"
-  #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
-  # - title: About
-  #   url: /about/
-  # - title: Blog Posts
-  #   url: /posts/
-  #- title: Projects
-  #   url: /projects/
