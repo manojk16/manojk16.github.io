@@ -11,9 +11,9 @@ minimal_mistakes_skin    : "contrast" #"default" # "air", "aqua", "contrast", "d
 locale                   : "en"
 title                    : "home"
 title_separator          : "-"
-name                     : "Reshama"
-description              : "Data Science & More"
-url                      : https://reshamas.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "Manoj"
+description              : "Data Science / Machine learning Enthusiast"
+url                      : https://manojk16.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  :  # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -54,14 +54,14 @@ atom_feed:
 search                   : # true, false (default)
 
 # SEO Related
-google_site_verification : "9FYf4zQBihoM8WqPUaGrjw_JfUxeOj0yTGQyTmUA1dM"
+google_site_verification : "Msa-1-IbcI6HSK6N8fYKKRnD62nGGDavaTgq54OdmOI"
 bing_site_verification   :
 yandex_site_verification :
 naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : reshamas
+  username               : manojk16
 facebook:
   username               :
   app_id                 :
@@ -78,16 +78,16 @@ social:
 analytics:
   provider               : "google" #false # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : UA-112038548-1
+    tracking_id          : UA-137153543-1
 
 
 # Site Author
 author:
-  name             : "Reshama Shaikh"
-  avatar           : "/assets/images/reshama_photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Data Scientist / Statistician"
-  location         : "New York, NY"
-  email            : reshama@wimlds.org
+  name             : "Manoj Kumar"
+  avatar           : #"/assets/images/reshama_photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Data Science / Machine Learning Enthusiast"
+  location         : "Bangaluru"
+  email            : mkumar9824@gmail.com
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
@@ -96,19 +96,19 @@ author:
   flickr           :
   facebook         : 
   foursquare       :
-  github           : "reshamas"
+  github           : "manojk16"
   gitlab           :
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "reshamas" #(the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
+  linkedin         : "manojk16" #(the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          : "reshamas"
+  twitter          : "manojk16"
   vine             :
   weibo            :
   xing             :
