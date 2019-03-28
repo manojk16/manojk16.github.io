@@ -61,7 +61,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : manojk16
+  username               : Manoj_9824
 facebook:
   username               :
   app_id                 :
@@ -84,9 +84,9 @@ analytics:
 # Site Author
 author:
   name             : "Manoj Kumar"
-  avatar           : #"/assets/images/reshama_photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/manoj_photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Science / Machine Learning Enthusiast"
-  location         : "Bangaluru"
+  location         : "Bengaluru"
   email            : mkumar9824@gmail.com
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
