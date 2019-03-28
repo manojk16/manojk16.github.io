@@ -7,14 +7,8 @@ main:
     url: /about/
   - title: Portfolio
     url: /portfolio/
-  - title: More
-    url: /more/   
-  - title: Interviews
-    url: /interviews/
   - title: Resources
     url: /resources/
-  - title: Melange
-    url: /melange/
   #- title: "Quick-Start Guide"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
